@@ -1,2 +1,6 @@
 Write commands of Git project initialization. 
 Give brief explanation on each.
+
+Write commands of creating a private 
+Git repo on your SSH server. 
+Give brief explanation on each.
