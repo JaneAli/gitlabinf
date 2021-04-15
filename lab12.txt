@@ -1,0 +1,2 @@
+Write commands of Git project initialization. 
+Give brief explanation on each.
